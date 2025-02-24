@@ -52,9 +52,7 @@ async function main() {
                 fs.writeFileSync(filePath, logData, "utf8");
 
             }
-            
         } catch (e) {
-            console.error(e);
         }
     }
 }
