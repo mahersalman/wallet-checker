@@ -1,0 +1,27 @@
+{
+  "name": "wallet-finder",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {},
+
+  "author": "Maher Salman <mahersal001@gmail.com>",
+  "license": "ISC",
+  "description": "A tool for checking Ethereum and other blockchain wallets for balances and sending alerts via email.",
+  "keywords": [
+    "wallet",
+    "ethereum",
+    "polygon",
+    "arbitrum",
+    "binance",
+    "base",
+    "solana",
+    "blockchain",
+    "email",
+    "nodemailer",
+    "ethers",
+    "crypto"
+  ],
+  "dependencies": {
+    "ethers": "~5.6.9"
+  }
+}
